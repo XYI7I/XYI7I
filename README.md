@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Greg Koynash
 - 👀 I’m interested in AI particular in Computer Vision and Robotics
-- 🌱 I’m currently learning Python, Java, C#.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Java, C#, LabView.
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me https://t.me/XYI7I
 
 <!---
