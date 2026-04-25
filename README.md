@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Greg Koynash
+- 👋 Hi, I’m XYI7I
 - 👀 I’m interested in AI particular in Computer Vision and Robotics
 - 🌱 I’m currently learning Python, Java, C#, LabView.
 <!-- - 💞️ I’m looking to collaborate on ... -->
